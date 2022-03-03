@@ -1,12 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-  <h3 align="center">Standard-README</h3>
-  <p align="center">
-    My personal standard README template.
-    <br />
-    <a href="https://github.com/Cusatelli">View Demo</a>
-  </p>
+  <h1 align="center">Blender Addons</h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
